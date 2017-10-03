@@ -1,0 +1,861 @@
+<object-stream>
+  <java.util.Stack serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>390</elementCount>
+        <elementData>
+          <long>1</long>
+          <long>0</long>
+          <long>0</long>
+          <map>
+            <entry>
+              <long>1</long>
+              <models.Book>
+                <id>0</id>
+                <title>High Fidelity</title>
+                <year>01-Jan-1995</year>
+                <author>Nick Hornby</author>
+              </models.Book>
+            </entry>
+            <entry>
+              <long>2</long>
+              <models.Book>
+                <id>1</id>
+                <title>Northern Lights</title>
+                <year>01-Jan-1995</year>
+                <author>Jimmy Nal</author>
+              </models.Book>
+            </entry>
+            <entry>
+              <long>3</long>
+              <models.Book>
+                <id>2</id>
+                <title>Wicked</title>
+                <year>01-Jan-1995</year>
+                <author>Gregory Maguire</author>
+              </models.Book>
+            </entry>
+            <entry>
+              <long>4</long>
+              <models.Book>
+                <id>3</id>
+                <title>A ChildCalled It</title>
+                <year>01-Jan-1995</year>
+                <author>Dave Pelzer</author>
+              </models.Book>
+            </entry>
+            <entry>
+              <long>5</long>
+              <models.Book>
+                <id>4</id>
+                <title>Kiss the Girls</title>
+                <year>01-Jan-1995</year>
+                <author>James Patterson</author>
+              </models.Book>
+            </entry>
+            <entry>
+              <long>6</long>
+              <models.Book>
+                <id>5</id>
+                <title>Where theHeart Is</title>
+                <year>01-Jan-1995</year>
+                <author>Billy Lets</author>
+              </models.Book>
+            </entry>
+            <entry>
+              <long>7</long>
+              <models.Book>
+                <id>6</id>
+                <title>Blindness</title>
+                <year>01-Jan-1995</year>
+                <author>Jose Saramago</author>
+              </models.Book>
+            </entry>
+            <entry>
+              <long>8</long>
+              <models.Book>
+                <id>7</id>
+                <title>The Reader</title>
+                <year>01-Jan-1995</year>
+                <author>Bernhard Schlink</author>
+              </models.Book>
+            </entry>
+            <entry>
+              <long>9</long>
+              <models.Book>
+                <id>8</id>
+                <title>The Rainmaker</title>
+                <year>01-Jan-1995</year>
+                <author>John Grisham</author>
+              </models.Book>
+            </entry>
+            <entry>
+              <long>10</long>
+              <models.Book>
+                <id>9</id>
+                <title>Lies My Teacher Told Me</title>
+                <year>22-Jan-1996</year>
+                <author>James W. Loewen</author>
+              </models.Book>
+            </entry>
+          </map>
+          <map>
+            <entry>
+              <long>1</long>
+              <models.User>
+                <id>0</id>
+                <firstName>Leonard</firstName>
+                <lastName>Hernandez</lastName>
+                <age>24</age>
+                <gender>M</gender>
+                <occupation>technician</occupation>
+              </models.User>
+            </entry>
+            <entry>
+              <long>2</long>
+              <models.User>
+                <id>1</id>
+                <firstName>Melody</firstName>
+                <lastName>Roberson</lastName>
+                <age>53</age>
+                <gender>F</gender>
+                <occupation>other</occupation>
+              </models.User>
+            </entry>
+            <entry>
+              <long>3</long>
+              <models.User>
+                <id>2</id>
+                <firstName>Gregory</firstName>
+                <lastName>Newton</lastName>
+                <age>23</age>
+                <gender>M</gender>
+                <occupation>writer</occupation>
+              </models.User>
+            </entry>
+            <entry>
+              <long>4</long>
+              <models.User>
+                <id>3</id>
+                <firstName>Oliver</firstName>
+                <lastName>George</lastName>
+                <age>24</age>
+                <gender>M</gender>
+                <occupation>technician</occupation>
+              </models.User>
+            </entry>
+            <entry>
+              <long>5</long>
+              <models.User>
+                <id>4</id>
+                <firstName>Jenna</firstName>
+                <lastName>Parker</lastName>
+                <age>33</age>
+                <gender>F</gender>
+                <occupation>other</occupation>
+              </models.User>
+            </entry>
+          </map>
+          <map>
+            <entry>
+              <long>1</long>
+              <models.Rating>
+                <id>48</id>
+                <bookID>1</bookID>
+                <userID>10</userID>
+                <rating>3</rating>
+                <BookID>BookID:</BookID>
+                <UserID>UserID:</UserID>
+                <Rating>Rating:</Rating>
+              </models.Rating>
+            </entry>
+            <entry>
+              <long>2</long>
+              <models.Rating>
+                <id>49</id>
+                <bookID>2</bookID>
+                <userID>10</userID>
+                <rating>5</rating>
+                <BookID>BookID:</BookID>
+                <UserID>UserID:</UserID>
+                <Rating>Rating:</Rating>
+              </models.Rating>
+            </entry>
+            <entry>
+              <long>3</long>
+              <models.Rating>
+                <id>42</id>
+                <bookID>3</bookID>
+                <userID>8</userID>
+                <rating>5</rating>
+                <BookID>BookID:</BookID>
+                <UserID>UserID:</UserID>
+                <Rating>Rating:</Rating>
+              </models.Rating>
+            </entry>
+            <entry>
+              <long>4</long>
+              <models.Rating>
+                <id>43</id>
+                <bookID>4</bookID>
+                <userID>8</userID>
+                <rating>3</rating>
+                <BookID>BookID:</BookID>
+                <UserID>UserID:</UserID>
+                <Rating>Rating:</Rating>
+              </models.Rating>
+            </entry>
+            <entry>
+              <long>5</long>
+              <models.Rating>
+                <id>46</id>
+                <bookID>5</bookID>
+                <userID>9</userID>
+                <rating>-5</rating>
+                <BookID>BookID:</BookID>
+                <UserID>UserID:</UserID>
+                <Rating>Rating:</Rating>
+              </models.Rating>
+            </entry>
+          </map>
+          <long>2</long>
+          <long>0</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>3</long>
+          <long>0</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>4</long>
+          <long>0</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>5</long>
+          <long>0</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>6</long>
+          <long>0</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>7</long>
+          <long>0</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>8</long>
+          <long>0</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>9</long>
+          <long>0</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>0</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>1</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>2</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>3</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>4</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>0</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>1</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>2</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>3</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>4</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>5</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>6</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>7</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>8</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>9</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>10</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>11</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>12</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>13</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>14</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>15</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>16</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>17</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>18</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>19</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>20</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>21</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>22</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>23</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>24</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>25</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>26</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>27</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>28</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>29</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>30</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>31</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>32</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>33</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>34</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>35</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>36</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>37</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>38</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>39</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>40</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>41</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>42</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>43</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>44</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>45</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>46</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>47</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>48</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>49</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <long>10</long>
+          <long>5</long>
+          <long>50</long>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map[3]"/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+          <null/>
+        </elementData>
+      </default>
+    </vector>
+  </java.util.Stack>
+</object-stream>

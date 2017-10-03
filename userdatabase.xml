@@ -1,0 +1,89 @@
+<object-stream>
+  <java.util.Stack serialization="custom">
+    <unserializable-parents/>
+    <vector>
+      <default>
+        <capacityIncrement>0</capacityIncrement>
+        <elementCount>10</elementCount>
+        <elementData>
+          <map>
+            <entry>
+              <long>1</long>
+              <models.User>
+                <id>0</id>
+                <userID>1</userID>
+                <firstName>Leonard</firstName>
+                <lastName>Hernandez</lastName>
+                <age>24</age>
+                <gender>M</gender>
+                <occupation>technician</occupation>
+                <ratings/>
+              </models.User>
+            </entry>
+            <entry>
+              <long>2</long>
+              <models.User>
+                <id>1</id>
+                <userID>2</userID>
+                <firstName>Melody</firstName>
+                <lastName>Roberson</lastName>
+                <age>53</age>
+                <gender>F</gender>
+                <occupation>other</occupation>
+                <ratings/>
+              </models.User>
+            </entry>
+            <entry>
+              <long>3</long>
+              <models.User>
+                <id>2</id>
+                <userID>3</userID>
+                <firstName>Gregory</firstName>
+                <lastName>Newton</lastName>
+                <age>23</age>
+                <gender>M</gender>
+                <occupation>writer</occupation>
+                <ratings/>
+              </models.User>
+            </entry>
+            <entry>
+              <long>4</long>
+              <models.User>
+                <id>3</id>
+                <userID>4</userID>
+                <firstName>Oliver</firstName>
+                <lastName>George</lastName>
+                <age>24</age>
+                <gender>M</gender>
+                <occupation>technician</occupation>
+                <ratings/>
+              </models.User>
+            </entry>
+            <entry>
+              <long>5</long>
+              <models.User>
+                <id>4</id>
+                <userID>5</userID>
+                <firstName>Jenna</firstName>
+                <lastName>Parker</lastName>
+                <age>33</age>
+                <gender>F</gender>
+                <occupation>other</occupation>
+                <ratings/>
+              </models.User>
+            </entry>
+          </map>
+          <map/>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+          <map reference="../map"/>
+          <map reference="../map[2]"/>
+        </elementData>
+      </default>
+    </vector>
+  </java.util.Stack>
+</object-stream>
